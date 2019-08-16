@@ -8,3 +8,8 @@ This is the main repository for the emotIOn project.
 Code for the Neural Network as well as for the emotIOn application can be found here.
 
 App is available on Google Play for experimenation purposes. 
+
+Files of "emotIOn App Files" are best visualized and operated with android studio. 
+
+Andres Rico - 2019
+Visit www.andresrico.xyz for more information about the project. 
