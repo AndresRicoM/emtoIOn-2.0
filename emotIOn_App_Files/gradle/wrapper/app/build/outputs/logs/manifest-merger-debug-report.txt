@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d181e4a91c782aaf97b27a626f90561d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/550e8ff876c05778490906cbacd227dc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4b43432dc6caea268e32f35787d4ec88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c4307c6ff425b623f5b7564dcb6624c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6a867c0d167bff7c9fbb4bcb1a40ac81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c2b9547da05668b5ec3591f89d784af3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c1101a0930a5481992e91dd51289e7e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d566d8168bd50af1ca791bbfcff8fb88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8135318d1932fab40974c67f96a6279e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/dbfc46dc184b11f3c063f5d0cf84d998/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a7ee68142c755616073818f42b2617d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0bd8db984672a3a27f6fb13e9b1e7ed3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a59fcb202c643bcb1467872fcbe12024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3751b1a96a09ab9745e7cdc631da19a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/277f5a4ffb86f58e1b5d8cda2e841bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e456c6c98022fce5ebc60d14659a85f0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cf314ec7ea52d69daa99a15889206679/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/49526841f711ae7e903f12f96bc2a07f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b938e53400f08dcd5463d47aa8f682a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7780c78fb57b728fecde39e0dfe767f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0495145f48c05789ce85975f998bbad5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/32fce2b4e0471e4afe07be83f2eb6cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a1d9b7cb243f3d380caecca8881231f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/526ae383c70d865464ca54e5f6aaef0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8541cec253c52b46632e1b8d44e80518/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d0413db0f7cbf54011ab6f7ef269475/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fba13e5759407e374e30c915b184efb8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/550e8ff876c05778490906cbacd227dc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/550e8ff876c05778490906cbacd227dc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e456c6c98022fce5ebc60d14659a85f0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e456c6c98022fce5ebc60d14659a85f0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cf314ec7ea52d69daa99a15889206679/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cf314ec7ea52d69daa99a15889206679/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e456c6c98022fce5ebc60d14659a85f0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:14:9-40
+activity#xyz.andresrico.emotion.MainActivity
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d181e4a91c782aaf97b27a626f90561d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d181e4a91c782aaf97b27a626f90561d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/550e8ff876c05778490906cbacd227dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/550e8ff876c05778490906cbacd227dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4b43432dc6caea268e32f35787d4ec88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4b43432dc6caea268e32f35787d4ec88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c4307c6ff425b623f5b7564dcb6624c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c4307c6ff425b623f5b7564dcb6624c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6a867c0d167bff7c9fbb4bcb1a40ac81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6a867c0d167bff7c9fbb4bcb1a40ac81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c2b9547da05668b5ec3591f89d784af3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c2b9547da05668b5ec3591f89d784af3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c1101a0930a5481992e91dd51289e7e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c1101a0930a5481992e91dd51289e7e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d566d8168bd50af1ca791bbfcff8fb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d566d8168bd50af1ca791bbfcff8fb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8135318d1932fab40974c67f96a6279e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8135318d1932fab40974c67f96a6279e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/dbfc46dc184b11f3c063f5d0cf84d998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/dbfc46dc184b11f3c063f5d0cf84d998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a7ee68142c755616073818f42b2617d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a7ee68142c755616073818f42b2617d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0bd8db984672a3a27f6fb13e9b1e7ed3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0bd8db984672a3a27f6fb13e9b1e7ed3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a59fcb202c643bcb1467872fcbe12024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a59fcb202c643bcb1467872fcbe12024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3751b1a96a09ab9745e7cdc631da19a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3751b1a96a09ab9745e7cdc631da19a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/277f5a4ffb86f58e1b5d8cda2e841bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/277f5a4ffb86f58e1b5d8cda2e841bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e456c6c98022fce5ebc60d14659a85f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e456c6c98022fce5ebc60d14659a85f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cf314ec7ea52d69daa99a15889206679/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cf314ec7ea52d69daa99a15889206679/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/49526841f711ae7e903f12f96bc2a07f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/49526841f711ae7e903f12f96bc2a07f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b938e53400f08dcd5463d47aa8f682a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b938e53400f08dcd5463d47aa8f682a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7780c78fb57b728fecde39e0dfe767f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7780c78fb57b728fecde39e0dfe767f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0495145f48c05789ce85975f998bbad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0495145f48c05789ce85975f998bbad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/32fce2b4e0471e4afe07be83f2eb6cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/32fce2b4e0471e4afe07be83f2eb6cb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a1d9b7cb243f3d380caecca8881231f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a1d9b7cb243f3d380caecca8881231f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/526ae383c70d865464ca54e5f6aaef0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/526ae383c70d865464ca54e5f6aaef0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8541cec253c52b46632e1b8d44e80518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8541cec253c52b46632e1b8d44e80518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d0413db0f7cbf54011ab6f7ef269475/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d0413db0f7cbf54011ab6f7ef269475/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fba13e5759407e374e30c915b184efb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/AndresRico/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fba13e5759407e374e30c915b184efb8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AndresRico/AndroidStudioProjects/emotIOn2/app/src/main/AndroidManifest.xml
