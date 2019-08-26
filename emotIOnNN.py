@@ -35,7 +35,7 @@ import re
 
 a = np.loadtxt(open("Insert Specific Data File Name Here"), delimiter = ",", skiprows = 1) #Take Data from file on src path.
 
-for i in range(1): #Range 50
+for i in range(50): #Range 50
     np.random.shuffle(a) #Shuffle Data Set
 
 index = int(round(a.shape[0] * .7)) #Divide set into training (70%) and test (30%)
